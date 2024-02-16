@@ -21,7 +21,6 @@ Skills: JAVA / PYTHON / REACT JS / JavaScript / HTML / CSS / TAILWIND
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpita-Nath&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Arpita-Nath)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Arpita-Nath)  
 
