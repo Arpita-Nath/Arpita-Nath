@@ -1,4 +1,4 @@
-![Web Developer](https://media.licdn.com/dms/image/D5616AQEoIuiFuVAHiw/profile-displaybackgroundimage-shrink_350_1400/0/1708108373240?e=1713398400&v=beta&t=LraZWGBAFXTkgkUIM-UFJY7aF5utDUdog5jxFfPkx_g)
+![Web Developer]([https://media.licdn.com/dms/image/D5616AQEoIuiFuVAHiw/profile-displaybackgroundimage-shrink_350_1400/0/1708108373240?e=1713398400&v=beta&t=LraZWGBAFXTkgkUIM-UFJY7aF5utDUdog5jxFfPkx_g](https://media.licdn.com/dms/image/D5616AQEkPLq1CjKAPQ/profile-displaybackgroundimage-shrink_350_1400/0/1708159563457?e=1713398400&v=beta&t=DZzKUL1hwgSklGX0I9Uq2u9pGrPbXARdKxYCo9We-lk))
 
 ### Hi there 👋, I'm Arpita
 #### Web Developer
